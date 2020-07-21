@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ass1</title>
+  <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1> MENU</h1>
+    <div class="a">
+      <div class="b">
+        <h2>java</h2>
+      <p>Accepts data and instructions, stores in its memory, processes and gives the results to the user.
+        The term computer is derived from the Latin word compute which means to calculate or to manipulate</p>
+      </div>
+      <div class="c">
+        <h2> css </h2>
+      <p>Accepts data and instructions, stores in its memory, processes and gives the results to the user
+       The term computer is derived from the Latin word compute which means to calculate or to manipulate</p>
+      </div>
+      <div class="d">
+        <h2> python </h2>
+      <p>Accepts data and instructions, stores in its memory, processes and gives the results to the user
+        The term computer is derived from the Latin word compute which means to calculate or to manipulate</p>
+      </div>
+</div>
+</body>
+</html>
+
